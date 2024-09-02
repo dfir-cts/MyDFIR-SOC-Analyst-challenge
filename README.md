@@ -6,7 +6,7 @@ The 30-Day SOC Analyst Challenge offers free practical experience for aspiring S
 
 ### Skills Learned
 
-- Advanced understanding of SIEM concepts and practical application.
+- Understanding of SIEM concepts and practical application.
 - Proficiency in analyzing and interpreting network logs.
 - Ability to generate and recognize attack signatures and patterns.
 - Enhanced knowledge of network protocols and security vulnerabilities.
