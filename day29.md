@@ -1,4 +1,4 @@
-# Elastic Defend Setup and Telemetry Review: A Comprehensive Guide
+# Elastic Defend Setup Tutorial
 
 This knowledge base article details the setup and usage of Elastic Defend (EDR), focusing on its installation, configuration, alert generation, and response actions. This guide is based on a 30-day challenge focusing on Security Operations Center (SOC) analyst skills. Elastic Defend (EDR) is Elastic's Endpoint Detection and Response solution.
 
